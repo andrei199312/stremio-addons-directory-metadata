@@ -16,7 +16,7 @@ tags:
 
 # Stremio Addons Directory & Metadata Dataset
 
-This dataset contains 507 approved public records exported from [addons-stremio.com](https://addons-stremio.com/dataset) on 2026-08-19T00:37:02.866Z.
+This dataset contains 507 approved public records exported from [addons-stremio.com](https://addons-stremio.com/dataset) on 2026-08-20T00:37:02.949Z.
 
 ## Files
 
