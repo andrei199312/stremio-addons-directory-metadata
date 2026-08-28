@@ -6,7 +6,7 @@
   "api": "https://addons-stremio.com/api/v1/addons",
   "openapi": "https://addons-stremio.com/openapi.yaml",
   "license": "CC-BY-4.0",
-  "generatedAt": "2026-08-28T17:54:54.282Z",
+  "generatedAt": "2026-08-28T18:30:15.127Z",
   "records": 553,
   "forumRecords": 120,
   "files": [
@@ -21,5 +21,5 @@
     "forum-threads.jsonl",
     "forum-threads.csv"
   ],
-  "checksum": "6e926e9b2ef75b6a67032978d8e865f03d545c5e3ec50da961c0dbc9d40830ef"
+  "checksum": "de9e7df9dfd669a0b025c9b080b1f64443db265b96a80866a519b95866f3e82b"
 }
