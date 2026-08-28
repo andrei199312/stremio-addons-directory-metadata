@@ -1,0 +1,25 @@
+{
+  "name": "Stremio Addons Directory & Metadata Dataset",
+  "description": "Public addon metadata and substantive forum discussions from the independent addons-stremio.com directory.",
+  "source": "https://addons-stremio.com",
+  "homepage": "https://addons-stremio.com/dataset",
+  "api": "https://addons-stremio.com/api/v1/addons",
+  "openapi": "https://addons-stremio.com/openapi.yaml",
+  "license": "CC-BY-4.0",
+  "generatedAt": "2026-08-28T17:54:54.282Z",
+  "records": 553,
+  "forumRecords": 120,
+  "files": [
+    "addons.json",
+    "addons.csv",
+    "metadata.json",
+    "README.md",
+    "stremio-addons.json",
+    "stremio-addons.jsonl",
+    "stremio-addons.csv",
+    "forum-threads.json",
+    "forum-threads.jsonl",
+    "forum-threads.csv"
+  ],
+  "checksum": "6e926e9b2ef75b6a67032978d8e865f03d545c5e3ec50da961c0dbc9d40830ef"
+}
