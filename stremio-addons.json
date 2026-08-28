@@ -3,7 +3,7 @@
   "description": "Public addon metadata and substantive forum discussions from the independent addons-stremio.com directory.",
   "homepage": "https://addons-stremio.com/dataset",
   "license": "CC-BY-4.0",
-  "generatedAt": "2026-08-28T17:54:54.282Z",
+  "generatedAt": "2026-08-28T18:30:15.127Z",
   "records": 553,
   "forumRecords": 120,
   "addons": [
@@ -1054,7 +1054,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 0,
+        "installs": 1,
         "views": 1
       },
       "promotion": {
@@ -1068,7 +1068,7 @@
         "contentUpdatedAt": "2026-08-28T00:06:11.094Z"
       },
       "createdAt": "2026-08-24T19:22:06.395Z",
-      "updatedAt": "2026-08-28T17:38:52.167Z"
+      "updatedAt": "2026-08-28T18:22:38.562Z"
     },
     {
       "id": "4cd486fb-a2c1-488a-b57a-b5aa913363c0",
@@ -1208,7 +1208,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 1,
+        "installs": 2,
         "views": 2
       },
       "promotion": {
@@ -1222,7 +1222,7 @@
         "contentUpdatedAt": "2026-08-24T08:54:24.573Z"
       },
       "createdAt": "2026-08-24T02:04:59.691Z",
-      "updatedAt": "2026-08-28T15:05:06.906Z"
+      "updatedAt": "2026-08-28T18:25:05.522Z"
     },
     {
       "id": "dac6c050-4d7f-4cd6-b5a5-0c637b05a717",
@@ -1670,7 +1670,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 0,
-        "views": 1
+        "views": 2
       },
       "promotion": {
         "isVip": false,
@@ -1683,7 +1683,7 @@
         "contentUpdatedAt": "2026-08-27T15:25:52.062Z"
       },
       "createdAt": "2026-08-22T04:36:32.483Z",
-      "updatedAt": "2026-08-28T09:45:58.565Z"
+      "updatedAt": "2026-08-28T18:20:32.563Z"
     },
     {
       "id": "4d783841-cfb3-46e9-933b-439b0254a940",
@@ -2731,7 +2731,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 1,
+        "installs": 2,
         "views": 2
       },
       "promotion": {
@@ -2745,7 +2745,7 @@
         "contentUpdatedAt": "2026-08-28T00:06:05.393Z"
       },
       "createdAt": "2026-08-20T17:52:20.642Z",
-      "updatedAt": "2026-08-28T17:35:50.765Z"
+      "updatedAt": "2026-08-28T18:21:53.680Z"
     },
     {
       "id": "3cf36ca5-d148-4fd9-93eb-016ae4e4144b",
@@ -6599,7 +6599,7 @@
       "stremioId": "com.stremio.ricos",
       "slug": "canal-ricos-addon",
       "name": "Canal Ricos Addon",
-      "description": "Canal Ricos (Brazil) - Perus, São Paulo, Whatsapp: (11) 99105-1755",
+      "description": "Canal Ricos (Brazil) - Perus, São Paulo, Whatsapp: ([phone removed]",
       "version": "1.0.0",
       "canonicalUrl": "https://addons-stremio.com/addon/canal-ricos-addon",
       "manifestUrl": "https://zoreu.github.io/ricosstremio/manifest.json",
@@ -7444,8 +7444,8 @@
         "ratingCount": 0,
         "directoryStars": 4,
         "totalStars": 4,
-        "installs": 113,
-        "views": 163
+        "installs": 115,
+        "views": 165
       },
       "promotion": {
         "isVip": false,
@@ -7458,7 +7458,7 @@
         "contentUpdatedAt": "2026-07-30T17:20:42.186Z"
       },
       "createdAt": "2026-07-30T17:20:42.186Z",
-      "updatedAt": "2026-08-28T17:19:12.114Z"
+      "updatedAt": "2026-08-28T18:19:04.325Z"
     },
     {
       "id": "f43a98bb-3bad-4312-a949-a368ce7b27e2",
@@ -8380,7 +8380,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 5,
-        "views": 4
+        "views": 5
       },
       "promotion": {
         "isVip": false,
@@ -8393,7 +8393,7 @@
         "contentUpdatedAt": "2026-07-27T00:53:15.851Z"
       },
       "createdAt": "2026-07-23T03:01:48.135Z",
-      "updatedAt": "2026-08-28T15:00:35.812Z"
+      "updatedAt": "2026-08-28T18:29:19.050Z"
     },
     {
       "id": "4d1c67fe-0d53-4476-9160-6957b7680ac8",
@@ -9530,8 +9530,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 3,
-        "views": 6
+        "installs": 4,
+        "views": 7
       },
       "promotion": {
         "isVip": false,
@@ -9544,7 +9544,7 @@
         "contentUpdatedAt": "2026-07-20T17:30:37.118Z"
       },
       "createdAt": "2026-07-20T05:39:01.293Z",
-      "updatedAt": "2026-08-28T15:00:35.450Z"
+      "updatedAt": "2026-08-28T18:03:22.400Z"
     },
     {
       "id": "3cc08879-751b-4c25-8e15-3b2ba12b6c37",
@@ -15129,8 +15129,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 16,
-        "views": 18
+        "installs": 17,
+        "views": 19
       },
       "promotion": {
         "isVip": false,
@@ -15143,7 +15143,7 @@
         "contentUpdatedAt": "2026-07-27T14:17:49.709Z"
       },
       "createdAt": "2026-07-08T16:07:51.706Z",
-      "updatedAt": "2026-08-28T15:00:36.766Z"
+      "updatedAt": "2026-08-28T18:25:12.821Z"
     },
     {
       "id": "9693d991-aa37-4553-8e24-67e796412c9f",
@@ -17756,7 +17756,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 1,
-        "views": 3
+        "views": 4
       },
       "promotion": {
         "isVip": false,
@@ -17769,14 +17769,14 @@
         "contentUpdatedAt": "2026-07-07T19:36:07.771Z"
       },
       "createdAt": "2026-06-29T20:12:50.066Z",
-      "updatedAt": "2026-08-27T15:00:16.478Z"
+      "updatedAt": "2026-08-28T18:25:32.008Z"
     },
     {
       "id": "9b0b9401-98a4-425a-bf43-c9eba2a7050f",
       "stremioId": "all.iptv.stremio.add-on",
       "slug": "all-iptv",
       "name": "All IPTV",
-      "description": "Watch 12,000+ daily updated premium IPTV channels in English, Spanish, Russian, French, German, Hindi, Chinese and other languages. Explore categories like Movies, Series, Sports, Cooking, Music, Anime, Porn and other genres. Stream top favorites including BBC News, CNN, Cartoon Network, Disney, MTV, ESPN Deportes, Fox Sports, AMC, AXN, Nickelodeon, Crunchyroll, CSI, NCIS, Playboy TV, Miami TV and many more. For support or custom addon development, contact: alliptv@atomicmail.io.",
+      "description": "Watch 12,000+ daily updated premium IPTV channels in English, Spanish, Russian, French, German, Hindi, Chinese and other languages. Explore categories like Movies, Series, Sports, Cooking, Music, Anime, Porn and other genres. Stream top favorites including BBC News, CNN, Cartoon Network, Disney, MTV, ESPN Deportes, Fox Sports, AMC, AXN, Nickelodeon, Crunchyroll, CSI, NCIS, Playboy TV, Miami TV and many more. For support or custom addon development, contact: [contact removed].",
       "version": "1.2.1",
       "canonicalUrl": "https://addons-stremio.com/addon/all-iptv",
       "manifestUrl": "https://fun.kort.workers.dev/manifest.json",
@@ -19964,7 +19964,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 4,
+        "installs": 5,
         "views": 5
       },
       "promotion": {
@@ -19978,7 +19978,7 @@
         "contentUpdatedAt": "2026-07-30T05:07:40.793Z"
       },
       "createdAt": "2026-06-25T01:24:29.509Z",
-      "updatedAt": "2026-08-27T15:00:16.884Z"
+      "updatedAt": "2026-08-28T18:24:23.085Z"
     },
     {
       "id": "6b36350f-31a7-46ef-bb81-6e488ee9c79c",
@@ -21779,7 +21779,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 8,
+        "installs": 9,
         "views": 7
       },
       "promotion": {
@@ -21793,7 +21793,7 @@
         "contentUpdatedAt": "2026-07-07T19:34:45.203Z"
       },
       "createdAt": "2026-06-17T14:53:12.491Z",
-      "updatedAt": "2026-08-28T17:34:06.440Z"
+      "updatedAt": "2026-08-28T18:21:36.502Z"
     },
     {
       "id": "010e6d28-d27a-407c-ae12-cdb8545dcec1",
@@ -22056,7 +22056,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 7,
-        "views": 5
+        "views": 6
       },
       "promotion": {
         "isVip": false,
@@ -22069,7 +22069,7 @@
         "contentUpdatedAt": "2026-07-07T19:35:42.681Z"
       },
       "createdAt": "2026-06-15T15:48:24.284Z",
-      "updatedAt": "2026-08-28T15:00:39.291Z"
+      "updatedAt": "2026-08-28T18:25:14.812Z"
     },
     {
       "id": "55704f6b-b8b6-4084-a893-c93712e9c64b",
@@ -22193,7 +22193,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 10,
-        "views": 14
+        "views": 15
       },
       "promotion": {
         "isVip": false,
@@ -22206,7 +22206,7 @@
         "contentUpdatedAt": "2026-07-07T19:34:43.388Z"
       },
       "createdAt": "2026-06-14T22:02:41.755Z",
-      "updatedAt": "2026-08-28T15:00:35.345Z"
+      "updatedAt": "2026-08-28T18:25:45.380Z"
     },
     {
       "id": "7357693e-1354-446e-bd60-5b40c091cfce",
@@ -22624,7 +22624,7 @@
         "directoryStars": 1,
         "totalStars": 1,
         "installs": 58,
-        "views": 89
+        "views": 90
       },
       "promotion": {
         "isVip": false,
@@ -22637,7 +22637,7 @@
         "contentUpdatedAt": "2026-07-07T19:35:57.101Z"
       },
       "createdAt": "2026-06-13T04:04:46.289Z",
-      "updatedAt": "2026-08-28T16:59:32.098Z"
+      "updatedAt": "2026-08-28T17:56:57.822Z"
     },
     {
       "id": "514d4e5e-a3a6-49ff-97b4-7b135766d674",
@@ -32440,7 +32440,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 101,
-        "views": 137
+        "views": 138
       },
       "promotion": {
         "isVip": false,
@@ -32453,7 +32453,7 @@
         "contentUpdatedAt": "2026-07-30T18:11:00.873Z"
       },
       "createdAt": "2026-05-30T02:40:12.351Z",
-      "updatedAt": "2026-08-28T17:38:04.492Z"
+      "updatedAt": "2026-08-28T18:25:25.702Z"
     },
     {
       "id": "388ba814-879b-44c4-810e-e1a83d30de39",
@@ -32708,8 +32708,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 4,
-        "views": 5
+        "installs": 5,
+        "views": 6
       },
       "promotion": {
         "isVip": false,
@@ -32722,7 +32722,7 @@
         "contentUpdatedAt": "2026-07-07T19:31:06.650Z"
       },
       "createdAt": "2026-05-29T15:17:13.038Z",
-      "updatedAt": "2026-08-28T15:00:19.443Z"
+      "updatedAt": "2026-08-28T18:14:49.560Z"
     },
     {
       "id": "082a81e3-bf06-4705-971b-09cc6df061fb",
@@ -33154,8 +33154,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 5,
-        "views": 9
+        "installs": 6,
+        "views": 10
       },
       "promotion": {
         "isVip": false,
@@ -33168,7 +33168,7 @@
         "contentUpdatedAt": "2026-07-07T19:16:01.227Z"
       },
       "createdAt": "2026-05-28T14:40:23.694Z",
-      "updatedAt": "2026-08-28T15:00:38.387Z"
+      "updatedAt": "2026-08-28T17:58:29.157Z"
     },
     {
       "id": "d0ed8291-451e-473f-af57-1182c6e576f9",
@@ -35481,7 +35481,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 3,
-        "views": 2
+        "views": 3
       },
       "promotion": {
         "isVip": false,
@@ -35494,7 +35494,7 @@
         "contentUpdatedAt": "2026-07-07T19:39:51.710Z"
       },
       "createdAt": "2026-05-23T08:26:25.610Z",
-      "updatedAt": "2026-08-27T21:00:02.096Z"
+      "updatedAt": "2026-08-28T18:25:55.615Z"
     },
     {
       "id": "5cf53382-8df4-496c-99e8-1bbf0ccf7eab",
@@ -36543,8 +36543,8 @@
         "ratingCount": 0,
         "directoryStars": 1,
         "totalStars": 1,
-        "installs": 17,
-        "views": 32
+        "installs": 18,
+        "views": 33
       },
       "promotion": {
         "isVip": false,
@@ -36557,7 +36557,7 @@
         "contentUpdatedAt": "2026-07-07T19:31:13.670Z"
       },
       "createdAt": "2026-05-12T18:53:12.987Z",
-      "updatedAt": "2026-08-28T16:05:30.906Z"
+      "updatedAt": "2026-08-28T18:19:44.334Z"
     },
     {
       "id": "ae7a718c-c523-4adc-9fc9-ef78a1515cac",
@@ -38769,7 +38769,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 3,
+        "installs": 4,
         "views": 4
       },
       "promotion": {
@@ -38783,7 +38783,7 @@
         "contentUpdatedAt": "2026-07-18T00:04:11.923Z"
       },
       "createdAt": "2026-05-03T10:39:09.830Z",
-      "updatedAt": "2026-08-27T21:00:16.225Z"
+      "updatedAt": "2026-08-28T18:21:23.486Z"
     },
     {
       "id": "de608b49-170a-493e-9507-121d88662f3e",
@@ -39203,7 +39203,7 @@
         "directoryStars": 5,
         "totalStars": 5,
         "installs": 81,
-        "views": 118
+        "views": 119
       },
       "promotion": {
         "isVip": false,
@@ -39216,7 +39216,7 @@
         "contentUpdatedAt": "2026-07-15T15:39:55.655Z"
       },
       "createdAt": "2026-04-28T00:09:23.675Z",
-      "updatedAt": "2026-08-28T14:44:15.536Z"
+      "updatedAt": "2026-08-28T18:29:31.644Z"
     },
     {
       "id": "e577f962-9046-413d-a80e-d538c1f7ea6d",
@@ -39364,8 +39364,8 @@
         "ratingCount": 0,
         "directoryStars": 3,
         "totalStars": 3,
-        "installs": 61,
-        "views": 88
+        "installs": 62,
+        "views": 89
       },
       "promotion": {
         "isVip": false,
@@ -39378,7 +39378,7 @@
         "contentUpdatedAt": "2026-07-07T19:15:03.700Z"
       },
       "createdAt": "2026-04-26T15:21:58.660Z",
-      "updatedAt": "2026-08-28T16:27:41.361Z"
+      "updatedAt": "2026-08-28T18:02:13.509Z"
     },
     {
       "id": "6b37a36d-2a04-4161-8f82-ff25f7a220dc",
@@ -39423,7 +39423,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 0,
-        "views": 2
+        "views": 3
       },
       "promotion": {
         "isVip": false,
@@ -39436,7 +39436,7 @@
         "contentUpdatedAt": "2026-07-07T18:48:12.644Z"
       },
       "createdAt": "2026-04-26T14:34:07.279Z",
-      "updatedAt": "2026-08-27T15:00:02.112Z"
+      "updatedAt": "2026-08-28T18:22:34.975Z"
     },
     {
       "id": "dc0e76a6-490f-43e0-8582-b11dc0e56fa1",
@@ -44352,7 +44352,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 12,
+        "installs": 13,
         "views": 15
       },
       "promotion": {
@@ -44366,7 +44366,7 @@
         "contentUpdatedAt": "2026-07-07T19:14:53.535Z"
       },
       "createdAt": "2026-04-11T14:53:17.305Z",
-      "updatedAt": "2026-08-28T17:31:25.642Z"
+      "updatedAt": "2026-08-28T18:20:49.111Z"
     },
     {
       "id": "861bf58a-aff4-4aab-9536-3b8cacd0a3bc",
@@ -48067,7 +48067,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 0,
-        "views": 3
+        "views": 4
       },
       "promotion": {
         "isVip": false,
@@ -48080,7 +48080,7 @@
         "contentUpdatedAt": "2026-07-07T19:25:12.792Z"
       },
       "createdAt": "2026-03-15T22:52:32.111Z",
-      "updatedAt": "2026-08-27T21:00:15.790Z"
+      "updatedAt": "2026-08-28T18:25:19.771Z"
     },
     {
       "id": "db928176-52d6-49fb-88d3-61a941166afa",
@@ -49816,7 +49816,7 @@
       "stremioId": "com.fenixflix",
       "slug": "fenixflix",
       "name": "FENIXFLIX",
-      "description": "Addon de filmes, séries e Animes dublados e legendados em Português (PT‑BR)",
+      "description": "Addon de filmes, séries e Animes dublados e legendados em Português (PT‐BR)",
       "version": "1.1.0",
       "canonicalUrl": "https://addons-stremio.com/addon/fenixflix",
       "manifestUrl": "https://fenixflix-ur9u.onrender.com/manifest.json",
@@ -50450,7 +50450,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 5,
+        "installs": 6,
         "views": 4
       },
       "promotion": {
@@ -50464,7 +50464,7 @@
         "contentUpdatedAt": "2026-07-07T19:21:03.282Z"
       },
       "createdAt": "2026-02-26T04:01:57.868Z",
-      "updatedAt": "2026-08-28T17:33:58.282Z"
+      "updatedAt": "2026-08-28T18:21:45.567Z"
     },
     {
       "id": "3b808d8b-7127-4220-b6f0-3fe7d0856f13",
@@ -50633,7 +50633,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 2,
-        "views": 2
+        "views": 3
       },
       "promotion": {
         "isVip": false,
@@ -50646,7 +50646,7 @@
         "contentUpdatedAt": "2026-07-07T19:26:07.441Z"
       },
       "createdAt": "2026-02-22T22:51:10.528Z",
-      "updatedAt": "2026-08-28T03:00:06.830Z"
+      "updatedAt": "2026-08-28T18:30:07.390Z"
     },
     {
       "id": "357cc8e5-2932-4929-9faa-9d1a67308dd0",
@@ -58081,7 +58081,7 @@
       "stremioId": "com.blaumath.007collection",
       "slug": "007-james-bond-collection-official",
       "name": "James Bond 007 Collection (Official)",
-      "description": "Watch all 25 official James Bond franchise films in chronological release order (1962-2021).",
+      "description": "Watch all 25 official James Bond franchise films in chronological release order ([phone removed]).",
       "version": "1.5.0",
       "canonicalUrl": "https://addons-stremio.com/addon/007-james-bond-collection-official",
       "manifestUrl": "https://addon-007.vercel.app/manifest.json",
@@ -59430,8 +59430,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 4,
-        "views": 8
+        "installs": 5,
+        "views": 9
       },
       "promotion": {
         "isVip": false,
@@ -59444,7 +59444,7 @@
         "contentUpdatedAt": "2026-07-07T19:14:34.740Z"
       },
       "createdAt": "2026-01-01T10:39:30.682Z",
-      "updatedAt": "2026-08-28T15:34:08.808Z"
+      "updatedAt": "2026-08-28T18:07:53.140Z"
     },
     {
       "id": "346c0453-4e63-4e28-abec-7e7a409ee4fd",
@@ -60114,7 +60114,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 5,
+        "installs": 6,
         "views": 5
       },
       "promotion": {
@@ -60128,7 +60128,7 @@
         "contentUpdatedAt": "2026-07-07T19:20:13.352Z"
       },
       "createdAt": "2025-12-30T12:50:31.293Z",
-      "updatedAt": "2026-08-28T03:00:21.272Z"
+      "updatedAt": "2026-08-28T18:22:08.977Z"
     },
     {
       "id": "0bbae324-5cf4-4665-8cf9-0507d48865ad",
@@ -60549,7 +60549,7 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 1,
+        "installs": 2,
         "views": 3
       },
       "promotion": {
@@ -60563,7 +60563,7 @@
         "contentUpdatedAt": "2026-07-07T19:30:32.160Z"
       },
       "createdAt": "2025-12-29T14:31:05.466Z",
-      "updatedAt": "2026-08-28T03:00:04.882Z"
+      "updatedAt": "2026-08-28T18:23:49.696Z"
     },
     {
       "id": "c7e31737-e517-4687-9272-dd522c97dc92",
@@ -70280,7 +70280,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 1,
-        "views": 4
+        "views": 5
       },
       "promotion": {
         "isVip": false,
@@ -70293,7 +70293,7 @@
         "contentUpdatedAt": "2026-07-07T19:01:12.206Z"
       },
       "createdAt": "2025-08-28T10:01:15.549Z",
-      "updatedAt": "2026-08-28T09:00:11.881Z"
+      "updatedAt": "2026-08-28T18:20:23.291Z"
     },
     {
       "id": "40d4e7b7-962c-4457-a48f-644c54abc64b",
@@ -72605,7 +72605,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 49,
-        "views": 37
+        "views": 38
       },
       "promotion": {
         "isVip": false,
@@ -72618,7 +72618,7 @@
         "contentUpdatedAt": "2026-07-07T19:10:04.849Z"
       },
       "createdAt": "2025-06-26T21:50:31.375Z",
-      "updatedAt": "2026-08-28T13:37:27.617Z"
+      "updatedAt": "2026-08-28T18:20:36.620Z"
     },
     {
       "id": "c16d1fc7-cf2f-4725-bd10-803a4efad685",
@@ -73466,7 +73466,7 @@
         "directoryStars": 0,
         "totalStars": 0,
         "installs": 1,
-        "views": 6
+        "views": 7
       },
       "promotion": {
         "isVip": false,
@@ -73479,7 +73479,7 @@
         "contentUpdatedAt": "2026-07-29T12:14:21.863Z"
       },
       "createdAt": "2025-06-25T18:38:14.270Z",
-      "updatedAt": "2026-08-28T10:47:24.348Z"
+      "updatedAt": "2026-08-28T18:29:30.352Z"
     },
     {
       "id": "afe4eeee-3d70-467e-9986-75737901bb6d",
@@ -75679,7 +75679,7 @@
       "stremioId": "org.autotranslate.sonsuzanime",
       "slug": "auto-subtitle-translate-by-sonsuzanime-deepl",
       "name": "Auto Subtitle Translate by SonsuzAnime (DeepL)",
-      "description": "This addon takes subtitles from OpenSubtitlesV3 then translates into desired language.For donations: https://www.buymeacoffee.com/sonsuzosman Bug report: infinity@sonsuzanime.com",
+      "description": "This addon takes subtitles from OpenSubtitlesV3 then translates into desired language.For donations: https://www.buymeacoffee.com/sonsuzosman Bug report: [contact removed]",
       "version": "1.0.1",
       "canonicalUrl": "https://addons-stremio.com/addon/auto-subtitle-translate-by-sonsuzanime-deepl",
       "manifestUrl": "https://deeplsubtitle.sonsuzanime.com/manifest.json",
@@ -75877,7 +75877,7 @@
         "directoryStars": 1,
         "totalStars": 1,
         "installs": 52,
-        "views": 92
+        "views": 93
       },
       "promotion": {
         "isVip": false,
@@ -75890,7 +75890,7 @@
         "contentUpdatedAt": "2026-07-07T19:10:12.216Z"
       },
       "createdAt": "2025-04-08T14:40:12.759Z",
-      "updatedAt": "2026-08-28T16:28:30.479Z"
+      "updatedAt": "2026-08-28T18:29:14.032Z"
     },
     {
       "id": "955ae574-8753-483a-95eb-c2a719341b06",
@@ -79074,8 +79074,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 7,
-        "views": 5
+        "installs": 9,
+        "views": 7
       },
       "promotion": {
         "isVip": false,
@@ -79088,7 +79088,7 @@
         "contentUpdatedAt": "2026-07-07T19:01:01.036Z"
       },
       "createdAt": "2024-12-28T17:14:36.000Z",
-      "updatedAt": "2026-08-28T15:00:13.064Z"
+      "updatedAt": "2026-08-28T18:18:07.593Z"
     },
     {
       "id": "6ee54e8f-9b4d-48dc-9404-9098ca0d25f2",
@@ -80957,8 +80957,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 18,
-        "views": 35
+        "installs": 19,
+        "views": 36
       },
       "promotion": {
         "isVip": false,
@@ -80971,7 +80971,7 @@
         "contentUpdatedAt": "2026-07-07T19:05:59.123Z"
       },
       "createdAt": "2024-08-21T17:24:43.000Z",
-      "updatedAt": "2026-08-28T10:17:28.686Z"
+      "updatedAt": "2026-08-28T18:13:48.733Z"
     },
     {
       "id": "6f624acc-ef8f-494c-9c13-6657bed5a31f",
@@ -81198,7 +81198,7 @@
         "directoryStars": 2,
         "totalStars": 2,
         "installs": 87,
-        "views": 55
+        "views": 56
       },
       "promotion": {
         "isVip": true,
@@ -81211,7 +81211,7 @@
         "contentUpdatedAt": "2026-07-07T19:10:28.514Z"
       },
       "createdAt": "2024-07-18T19:51:45.000Z",
-      "updatedAt": "2026-08-28T17:19:47.551Z"
+      "updatedAt": "2026-08-28T18:25:32.873Z"
     },
     {
       "id": "dd78deea-de40-4531-9544-b43a5ad67841",
@@ -82511,7 +82511,7 @@
         "directoryStars": 2,
         "totalStars": 2,
         "installs": 86,
-        "views": 39
+        "views": 40
       },
       "promotion": {
         "isVip": true,
@@ -82524,7 +82524,7 @@
         "contentUpdatedAt": "2026-07-30T00:00:14.428Z"
       },
       "createdAt": "2024-03-04T10:51:56.000Z",
-      "updatedAt": "2026-08-28T17:36:56.344Z"
+      "updatedAt": "2026-08-28T18:21:00.210Z"
     },
     {
       "id": "883daed1-e51e-44ff-a49e-b8afd1c258c3",
@@ -82819,8 +82819,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 3,
-        "views": 7
+        "installs": 4,
+        "views": 8
       },
       "promotion": {
         "isVip": false,
@@ -82833,7 +82833,7 @@
         "contentUpdatedAt": "2026-07-07T19:25:33.245Z"
       },
       "createdAt": "2024-01-04T00:08:25.000Z",
-      "updatedAt": "2026-08-28T15:00:15.602Z"
+      "updatedAt": "2026-08-28T18:12:08.839Z"
     },
     {
       "id": "a9e49642-0e43-4fa3-aa2b-627b4d99e871",
@@ -84689,8 +84689,8 @@
         "ratingCount": 0,
         "directoryStars": 0,
         "totalStars": 0,
-        "installs": 12,
-        "views": 13
+        "installs": 13,
+        "views": 14
       },
       "promotion": {
         "isVip": false,
@@ -84703,7 +84703,7 @@
         "contentUpdatedAt": "2026-07-07T19:05:27.439Z"
       },
       "createdAt": "2022-10-26T13:59:59.000Z",
-      "updatedAt": "2026-08-28T14:43:29.448Z"
+      "updatedAt": "2026-08-28T18:06:27.938Z"
     },
     {
       "id": "314b2269-ca19-4675-9a59-1098feaaecde",
@@ -84751,7 +84751,7 @@
         "ratingCount": 1,
         "directoryStars": 4,
         "totalStars": 4,
-        "installs": 90,
+        "installs": 91,
         "views": 130
       },
       "promotion": {
@@ -84765,7 +84765,7 @@
         "contentUpdatedAt": "2026-07-07T19:04:50.838Z"
       },
       "createdAt": "2022-10-26T13:53:07.000Z",
-      "updatedAt": "2026-08-28T17:24:58.562Z"
+      "updatedAt": "2026-08-28T18:20:13.706Z"
     },
     {
       "id": "e5224302-9020-4a9a-8411-957ab736907e",
@@ -86975,7 +86975,7 @@
         "directoryStars": 1,
         "totalStars": 1,
         "installs": 62,
-        "views": 29
+        "views": 31
       },
       "promotion": {
         "isVip": false,
@@ -86988,7 +86988,7 @@
         "contentUpdatedAt": "2026-07-07T19:09:50.786Z"
       },
       "createdAt": "2022-10-24T13:27:59.000Z",
-      "updatedAt": "2026-08-28T17:32:58.450Z"
+      "updatedAt": "2026-08-28T18:20:23.434Z"
     },
     {
       "id": "74798843-f9b7-4fde-90e6-5876b3395892",
@@ -87272,9 +87272,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 3,
+      "views": 8,
       "createdAt": "2026-08-28T17:24:12.826Z",
-      "updatedAt": "2026-08-28T17:38:02.208Z",
+      "updatedAt": "2026-08-28T18:19:06.442Z",
       "lastActivityAt": "2026-08-28T17:37:56.208Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87330,9 +87330,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 6,
       "createdAt": "2026-08-28T17:24:12.883Z",
-      "updatedAt": "2026-08-28T17:30:46.074Z",
+      "updatedAt": "2026-08-28T18:18:27.017Z",
       "lastActivityAt": "2026-08-28T17:24:12.881Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87388,9 +87388,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 6,
       "createdAt": "2026-08-28T17:24:12.863Z",
-      "updatedAt": "2026-08-28T17:30:46.474Z",
+      "updatedAt": "2026-08-28T18:17:47.006Z",
       "lastActivityAt": "2026-08-28T17:24:12.862Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87446,9 +87446,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.843Z",
-      "updatedAt": "2026-08-28T17:33:44.727Z",
+      "updatedAt": "2026-08-28T18:20:31.256Z",
       "lastActivityAt": "2026-08-28T17:24:12.841Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87504,9 +87504,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.807Z",
-      "updatedAt": "2026-08-28T17:24:12.807Z",
+      "updatedAt": "2026-08-28T18:19:08.014Z",
       "lastActivityAt": "2026-08-28T17:24:12.806Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87562,9 +87562,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.792Z",
-      "updatedAt": "2026-08-28T17:24:12.801Z",
+      "updatedAt": "2026-08-28T18:18:25.528Z",
       "lastActivityAt": "2026-08-28T17:24:12.790Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87620,9 +87620,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.773Z",
-      "updatedAt": "2026-08-28T17:24:12.783Z",
+      "updatedAt": "2026-08-28T18:20:31.748Z",
       "lastActivityAt": "2026-08-28T17:24:12.770Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87678,9 +87678,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.754Z",
-      "updatedAt": "2026-08-28T17:24:12.767Z",
+      "updatedAt": "2026-08-28T18:30:12.144Z",
       "lastActivityAt": "2026-08-28T17:24:12.753Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87736,9 +87736,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.734Z",
-      "updatedAt": "2026-08-28T17:24:12.746Z",
+      "updatedAt": "2026-08-28T18:20:32.800Z",
       "lastActivityAt": "2026-08-28T17:24:12.733Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87794,9 +87794,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.719Z",
-      "updatedAt": "2026-08-28T17:24:12.719Z",
+      "updatedAt": "2026-08-28T18:18:27.443Z",
       "lastActivityAt": "2026-08-28T17:24:12.717Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87852,9 +87852,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.702Z",
-      "updatedAt": "2026-08-28T17:24:12.711Z",
+      "updatedAt": "2026-08-28T18:19:08.466Z",
       "lastActivityAt": "2026-08-28T17:24:12.701Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87910,9 +87910,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.679Z",
-      "updatedAt": "2026-08-28T17:24:12.679Z",
+      "updatedAt": "2026-08-28T18:18:11.230Z",
       "lastActivityAt": "2026-08-28T17:24:12.677Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -87968,9 +87968,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.656Z",
-      "updatedAt": "2026-08-28T17:24:12.672Z",
+      "updatedAt": "2026-08-28T18:18:53.578Z",
       "lastActivityAt": "2026-08-28T17:24:12.655Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88026,9 +88026,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.638Z",
-      "updatedAt": "2026-08-28T17:24:12.649Z",
+      "updatedAt": "2026-08-28T18:21:40.308Z",
       "lastActivityAt": "2026-08-28T17:24:12.635Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88084,9 +88084,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.617Z",
-      "updatedAt": "2026-08-28T17:24:12.617Z",
+      "updatedAt": "2026-08-28T18:18:10.976Z",
       "lastActivityAt": "2026-08-28T17:24:12.616Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88142,9 +88142,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 2,
+      "views": 6,
       "createdAt": "2026-08-28T17:24:12.595Z",
-      "updatedAt": "2026-08-28T17:47:56.049Z",
+      "updatedAt": "2026-08-28T18:21:17.406Z",
       "lastActivityAt": "2026-08-28T17:24:12.592Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88200,9 +88200,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.570Z",
-      "updatedAt": "2026-08-28T17:24:12.589Z",
+      "updatedAt": "2026-08-28T18:18:26.438Z",
       "lastActivityAt": "2026-08-28T17:24:12.568Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88258,9 +88258,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.553Z",
-      "updatedAt": "2026-08-28T17:24:12.563Z",
+      "updatedAt": "2026-08-28T18:18:54.019Z",
       "lastActivityAt": "2026-08-28T17:24:12.552Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88341,9 +88341,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.530Z",
-      "updatedAt": "2026-08-28T17:24:12.544Z",
+      "updatedAt": "2026-08-28T18:21:00.710Z",
       "lastActivityAt": "2026-08-28T17:24:12.529Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88424,9 +88424,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.516Z",
-      "updatedAt": "2026-08-28T17:24:12.516Z",
+      "updatedAt": "2026-08-28T18:29:35.722Z",
       "lastActivityAt": "2026-08-28T17:24:12.515Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88507,9 +88507,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.497Z",
-      "updatedAt": "2026-08-28T17:30:45.202Z",
+      "updatedAt": "2026-08-28T18:20:58.918Z",
       "lastActivityAt": "2026-08-28T17:24:12.496Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88565,9 +88565,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 2,
+      "views": 7,
       "createdAt": "2026-08-28T17:24:12.477Z",
-      "updatedAt": "2026-08-28T17:34:55.236Z",
+      "updatedAt": "2026-08-28T18:18:26.576Z",
       "lastActivityAt": "2026-08-28T17:24:12.474Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88623,9 +88623,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.461Z",
-      "updatedAt": "2026-08-28T17:24:12.461Z",
+      "updatedAt": "2026-08-28T18:25:27.547Z",
       "lastActivityAt": "2026-08-28T17:24:12.460Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88681,9 +88681,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.442Z",
-      "updatedAt": "2026-08-28T17:24:12.454Z",
+      "updatedAt": "2026-08-28T18:20:34.510Z",
       "lastActivityAt": "2026-08-28T17:24:12.441Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88739,9 +88739,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:12.421Z",
-      "updatedAt": "2026-08-28T17:24:12.421Z",
+      "updatedAt": "2026-08-28T18:15:47.512Z",
       "lastActivityAt": "2026-08-28T17:24:12.420Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88797,9 +88797,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.392Z",
-      "updatedAt": "2026-08-28T17:24:12.411Z",
+      "updatedAt": "2026-08-28T18:20:59.799Z",
       "lastActivityAt": "2026-08-28T17:24:12.391Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88855,9 +88855,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 2,
+      "views": 6,
       "createdAt": "2026-08-28T17:24:12.364Z",
-      "updatedAt": "2026-08-28T17:36:57.832Z",
+      "updatedAt": "2026-08-28T18:20:33.975Z",
       "lastActivityAt": "2026-08-28T17:24:12.363Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88913,9 +88913,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:12.335Z",
-      "updatedAt": "2026-08-28T17:24:12.355Z",
+      "updatedAt": "2026-08-28T18:15:47.092Z",
       "lastActivityAt": "2026-08-28T17:24:12.333Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -88971,9 +88971,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.306Z",
-      "updatedAt": "2026-08-28T17:24:12.322Z",
+      "updatedAt": "2026-08-28T18:20:23.253Z",
       "lastActivityAt": "2026-08-28T17:24:12.305Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89029,9 +89029,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.291Z",
-      "updatedAt": "2026-08-28T17:24:12.291Z",
+      "updatedAt": "2026-08-28T18:20:13.450Z",
       "lastActivityAt": "2026-08-28T17:24:12.290Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89087,9 +89087,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.270Z",
-      "updatedAt": "2026-08-28T17:24:12.284Z",
+      "updatedAt": "2026-08-28T18:22:03.253Z",
       "lastActivityAt": "2026-08-28T17:24:12.269Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89145,9 +89145,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:12.246Z",
-      "updatedAt": "2026-08-28T17:24:12.246Z",
+      "updatedAt": "2026-08-28T18:15:46.907Z",
       "lastActivityAt": "2026-08-28T17:24:12.245Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89203,9 +89203,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.226Z",
-      "updatedAt": "2026-08-28T17:33:23.265Z",
+      "updatedAt": "2026-08-28T18:22:46.563Z",
       "lastActivityAt": "2026-08-28T17:24:12.224Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89261,9 +89261,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.207Z",
-      "updatedAt": "2026-08-28T17:24:12.218Z",
+      "updatedAt": "2026-08-28T18:19:55.415Z",
       "lastActivityAt": "2026-08-28T17:24:12.206Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89319,9 +89319,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.191Z",
-      "updatedAt": "2026-08-28T17:24:12.191Z",
+      "updatedAt": "2026-08-28T18:25:57.246Z",
       "lastActivityAt": "2026-08-28T17:24:12.189Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89377,9 +89377,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.165Z",
-      "updatedAt": "2026-08-28T17:24:12.179Z",
+      "updatedAt": "2026-08-28T18:20:11.468Z",
       "lastActivityAt": "2026-08-28T17:24:12.164Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89435,9 +89435,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.140Z",
-      "updatedAt": "2026-08-28T17:24:12.157Z",
+      "updatedAt": "2026-08-28T18:15:41.477Z",
       "lastActivityAt": "2026-08-28T17:24:12.137Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89493,9 +89493,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:12.107Z",
-      "updatedAt": "2026-08-28T17:24:12.131Z",
+      "updatedAt": "2026-08-28T18:15:46.850Z",
       "lastActivityAt": "2026-08-28T17:24:12.105Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89576,9 +89576,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.079Z",
-      "updatedAt": "2026-08-28T17:24:12.098Z",
+      "updatedAt": "2026-08-28T18:20:33.079Z",
       "lastActivityAt": "2026-08-28T17:24:12.078Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89659,9 +89659,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:12.061Z",
-      "updatedAt": "2026-08-28T17:24:12.061Z",
+      "updatedAt": "2026-08-28T18:20:22.218Z",
       "lastActivityAt": "2026-08-28T17:24:12.060Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89742,9 +89742,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:12.038Z",
-      "updatedAt": "2026-08-28T17:30:44.514Z",
+      "updatedAt": "2026-08-28T18:21:10.321Z",
       "lastActivityAt": "2026-08-28T17:24:12.037Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89800,9 +89800,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:12.012Z",
-      "updatedAt": "2026-08-28T17:30:44.861Z",
+      "updatedAt": "2026-08-28T18:18:39.736Z",
       "lastActivityAt": "2026-08-28T17:24:12.011Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89858,9 +89858,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.987Z",
-      "updatedAt": "2026-08-28T17:24:11.987Z",
+      "updatedAt": "2026-08-28T18:20:49.759Z",
       "lastActivityAt": "2026-08-28T17:24:11.985Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89916,9 +89916,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.964Z",
-      "updatedAt": "2026-08-28T17:24:11.979Z",
+      "updatedAt": "2026-08-28T18:15:46.294Z",
       "lastActivityAt": "2026-08-28T17:24:11.963Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -89974,9 +89974,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.940Z",
-      "updatedAt": "2026-08-28T17:24:11.940Z",
+      "updatedAt": "2026-08-28T18:19:54.815Z",
       "lastActivityAt": "2026-08-28T17:24:11.939Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90032,9 +90032,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.914Z",
-      "updatedAt": "2026-08-28T17:24:11.931Z",
+      "updatedAt": "2026-08-28T18:20:59.373Z",
       "lastActivityAt": "2026-08-28T17:24:11.913Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90090,9 +90090,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.889Z",
-      "updatedAt": "2026-08-28T17:24:11.902Z",
+      "updatedAt": "2026-08-28T18:20:32.458Z",
       "lastActivityAt": "2026-08-28T17:24:11.888Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90148,9 +90148,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.861Z",
-      "updatedAt": "2026-08-28T17:24:11.876Z",
+      "updatedAt": "2026-08-28T18:20:13.003Z",
       "lastActivityAt": "2026-08-28T17:24:11.860Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90206,9 +90206,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.845Z",
-      "updatedAt": "2026-08-28T17:24:11.855Z",
+      "updatedAt": "2026-08-28T18:20:22.644Z",
       "lastActivityAt": "2026-08-28T17:24:11.844Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90264,9 +90264,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.822Z",
-      "updatedAt": "2026-08-28T17:24:11.822Z",
+      "updatedAt": "2026-08-28T18:20:32.453Z",
       "lastActivityAt": "2026-08-28T17:24:11.821Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90322,9 +90322,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.802Z",
-      "updatedAt": "2026-08-28T17:24:11.816Z",
+      "updatedAt": "2026-08-28T18:15:46.064Z",
       "lastActivityAt": "2026-08-28T17:24:11.801Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90380,9 +90380,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.783Z",
-      "updatedAt": "2026-08-28T17:24:11.783Z",
+      "updatedAt": "2026-08-28T18:20:12.104Z",
       "lastActivityAt": "2026-08-28T17:24:11.782Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90438,9 +90438,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.762Z",
-      "updatedAt": "2026-08-28T17:24:11.776Z",
+      "updatedAt": "2026-08-28T18:15:45.774Z",
       "lastActivityAt": "2026-08-28T17:24:11.761Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90496,9 +90496,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.740Z",
-      "updatedAt": "2026-08-28T17:24:11.752Z",
+      "updatedAt": "2026-08-28T18:18:25.220Z",
       "lastActivityAt": "2026-08-28T17:24:11.739Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90554,9 +90554,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.723Z",
-      "updatedAt": "2026-08-28T17:24:11.723Z",
+      "updatedAt": "2026-08-28T18:15:45.792Z",
       "lastActivityAt": "2026-08-28T17:24:11.721Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90612,9 +90612,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.701Z",
-      "updatedAt": "2026-08-28T17:24:11.716Z",
+      "updatedAt": "2026-08-28T18:15:45.694Z",
       "lastActivityAt": "2026-08-28T17:24:11.700Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90670,9 +90670,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.677Z",
-      "updatedAt": "2026-08-28T17:24:11.696Z",
+      "updatedAt": "2026-08-28T18:18:39.327Z",
       "lastActivityAt": "2026-08-28T17:24:11.676Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90728,9 +90728,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.657Z",
-      "updatedAt": "2026-08-28T17:24:11.669Z",
+      "updatedAt": "2026-08-28T18:15:45.686Z",
       "lastActivityAt": "2026-08-28T17:24:11.656Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90811,9 +90811,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.639Z",
-      "updatedAt": "2026-08-28T17:24:11.647Z",
+      "updatedAt": "2026-08-28T18:21:10.857Z",
       "lastActivityAt": "2026-08-28T17:24:11.638Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90894,9 +90894,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.606Z",
-      "updatedAt": "2026-08-28T17:24:11.606Z",
+      "updatedAt": "2026-08-28T18:20:21.764Z",
       "lastActivityAt": "2026-08-28T17:24:11.604Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -90977,9 +90977,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.580Z",
-      "updatedAt": "2026-08-28T17:30:43.713Z",
+      "updatedAt": "2026-08-28T18:20:58.602Z",
       "lastActivityAt": "2026-08-28T17:24:11.579Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91035,9 +91035,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.555Z",
-      "updatedAt": "2026-08-28T17:30:44.144Z",
+      "updatedAt": "2026-08-28T18:15:48.771Z",
       "lastActivityAt": "2026-08-28T17:24:11.554Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91093,9 +91093,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.532Z",
-      "updatedAt": "2026-08-28T17:24:11.532Z",
+      "updatedAt": "2026-08-28T18:21:09.855Z",
       "lastActivityAt": "2026-08-28T17:24:11.531Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91151,9 +91151,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.501Z",
-      "updatedAt": "2026-08-28T17:33:47.778Z",
+      "updatedAt": "2026-08-28T18:21:14.402Z",
       "lastActivityAt": "2026-08-28T17:24:11.500Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91209,9 +91209,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.478Z",
-      "updatedAt": "2026-08-28T17:24:11.478Z",
+      "updatedAt": "2026-08-28T18:29:35.244Z",
       "lastActivityAt": "2026-08-28T17:24:11.477Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91267,9 +91267,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.457Z",
-      "updatedAt": "2026-08-28T17:24:11.470Z",
+      "updatedAt": "2026-08-28T18:20:32.783Z",
       "lastActivityAt": "2026-08-28T17:24:11.456Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91325,9 +91325,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.429Z",
-      "updatedAt": "2026-08-28T17:33:24.137Z",
+      "updatedAt": "2026-08-28T18:21:00.264Z",
       "lastActivityAt": "2026-08-28T17:24:11.428Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91383,9 +91383,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.404Z",
-      "updatedAt": "2026-08-28T17:24:11.419Z",
+      "updatedAt": "2026-08-28T18:15:41.891Z",
       "lastActivityAt": "2026-08-28T17:24:11.403Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91441,9 +91441,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.375Z",
-      "updatedAt": "2026-08-28T17:24:11.390Z",
+      "updatedAt": "2026-08-28T18:15:45.292Z",
       "lastActivityAt": "2026-08-28T17:24:11.374Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91499,9 +91499,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.356Z",
-      "updatedAt": "2026-08-28T17:24:11.356Z",
+      "updatedAt": "2026-08-28T18:25:00.518Z",
       "lastActivityAt": "2026-08-28T17:24:11.355Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91557,9 +91557,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.320Z",
-      "updatedAt": "2026-08-28T17:24:11.347Z",
+      "updatedAt": "2026-08-28T18:15:45.157Z",
       "lastActivityAt": "2026-08-28T17:24:11.318Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91615,9 +91615,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.294Z",
-      "updatedAt": "2026-08-28T17:24:11.294Z",
+      "updatedAt": "2026-08-28T18:25:06.252Z",
       "lastActivityAt": "2026-08-28T17:24:11.293Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91673,9 +91673,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.266Z",
-      "updatedAt": "2026-08-28T17:24:11.281Z",
+      "updatedAt": "2026-08-28T18:20:52.214Z",
       "lastActivityAt": "2026-08-28T17:24:11.265Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91731,9 +91731,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.240Z",
-      "updatedAt": "2026-08-28T17:24:11.255Z",
+      "updatedAt": "2026-08-28T18:19:07.130Z",
       "lastActivityAt": "2026-08-28T17:24:11.239Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91789,9 +91789,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.221Z",
-      "updatedAt": "2026-08-28T17:24:11.221Z",
+      "updatedAt": "2026-08-28T18:15:44.834Z",
       "lastActivityAt": "2026-08-28T17:24:11.220Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91847,9 +91847,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.195Z",
-      "updatedAt": "2026-08-28T17:24:11.210Z",
+      "updatedAt": "2026-08-28T18:15:44.590Z",
       "lastActivityAt": "2026-08-28T17:24:11.193Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91905,9 +91905,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.167Z",
-      "updatedAt": "2026-08-28T17:34:00.103Z",
+      "updatedAt": "2026-08-28T18:24:10.903Z",
       "lastActivityAt": "2026-08-28T17:24:11.166Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -91963,9 +91963,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:11.141Z",
-      "updatedAt": "2026-08-28T17:24:11.159Z",
+      "updatedAt": "2026-08-28T18:15:44.550Z",
       "lastActivityAt": "2026-08-28T17:24:11.140Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92046,9 +92046,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.123Z",
-      "updatedAt": "2026-08-28T17:24:11.135Z",
+      "updatedAt": "2026-08-28T18:21:12.042Z",
       "lastActivityAt": "2026-08-28T17:24:11.122Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92129,9 +92129,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:11.102Z",
-      "updatedAt": "2026-08-28T17:24:11.102Z",
+      "updatedAt": "2026-08-28T18:19:54.088Z",
       "lastActivityAt": "2026-08-28T17:24:11.101Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92212,9 +92212,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:11.077Z",
-      "updatedAt": "2026-08-28T17:24:11.091Z",
+      "updatedAt": "2026-08-28T18:25:39.420Z",
       "lastActivityAt": "2026-08-28T17:24:11.075Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92270,9 +92270,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.019Z",
-      "updatedAt": "2026-08-28T17:24:11.066Z",
+      "updatedAt": "2026-08-28T18:21:06.819Z",
       "lastActivityAt": "2026-08-28T17:24:11.018Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92328,9 +92328,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:11.001Z",
-      "updatedAt": "2026-08-28T17:24:11.001Z",
+      "updatedAt": "2026-08-28T18:21:11.155Z",
       "lastActivityAt": "2026-08-28T17:24:11.000Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92386,9 +92386,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 2,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.984Z",
-      "updatedAt": "2026-08-28T17:36:33.287Z",
+      "updatedAt": "2026-08-28T18:15:49.625Z",
       "lastActivityAt": "2026-08-28T17:24:10.983Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92444,9 +92444,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.967Z",
-      "updatedAt": "2026-08-28T17:24:10.967Z",
+      "updatedAt": "2026-08-28T18:20:12.566Z",
       "lastActivityAt": "2026-08-28T17:24:10.966Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92502,9 +92502,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.937Z",
-      "updatedAt": "2026-08-28T17:24:10.951Z",
+      "updatedAt": "2026-08-28T18:21:11.645Z",
       "lastActivityAt": "2026-08-28T17:24:10.936Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92560,9 +92560,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.912Z",
-      "updatedAt": "2026-08-28T17:24:10.927Z",
+      "updatedAt": "2026-08-28T18:15:43.852Z",
       "lastActivityAt": "2026-08-28T17:24:10.911Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92618,9 +92618,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.885Z",
-      "updatedAt": "2026-08-28T17:24:10.902Z",
+      "updatedAt": "2026-08-28T18:25:09.475Z",
       "lastActivityAt": "2026-08-28T17:24:10.883Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92676,9 +92676,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.854Z",
-      "updatedAt": "2026-08-28T17:24:10.875Z",
+      "updatedAt": "2026-08-28T18:15:43.666Z",
       "lastActivityAt": "2026-08-28T17:24:10.853Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92734,9 +92734,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.828Z",
-      "updatedAt": "2026-08-28T17:24:10.828Z",
+      "updatedAt": "2026-08-28T18:15:44.077Z",
       "lastActivityAt": "2026-08-28T17:24:10.827Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92792,9 +92792,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.803Z",
-      "updatedAt": "2026-08-28T17:24:10.821Z",
+      "updatedAt": "2026-08-28T18:29:11.918Z",
       "lastActivityAt": "2026-08-28T17:24:10.802Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92850,9 +92850,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.780Z",
-      "updatedAt": "2026-08-28T17:24:10.780Z",
+      "updatedAt": "2026-08-28T18:30:05.298Z",
       "lastActivityAt": "2026-08-28T17:24:10.779Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92908,9 +92908,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.765Z",
-      "updatedAt": "2026-08-28T17:24:10.772Z",
+      "updatedAt": "2026-08-28T18:15:43.325Z",
       "lastActivityAt": "2026-08-28T17:24:10.764Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -92966,9 +92966,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.748Z",
-      "updatedAt": "2026-08-28T17:24:10.759Z",
+      "updatedAt": "2026-08-28T18:25:19.362Z",
       "lastActivityAt": "2026-08-28T17:24:10.747Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93024,9 +93024,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.732Z",
-      "updatedAt": "2026-08-28T17:24:10.732Z",
+      "updatedAt": "2026-08-28T18:15:43.278Z",
       "lastActivityAt": "2026-08-28T17:24:10.731Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93082,9 +93082,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.712Z",
-      "updatedAt": "2026-08-28T17:24:10.726Z",
+      "updatedAt": "2026-08-28T18:21:10.373Z",
       "lastActivityAt": "2026-08-28T17:24:10.711Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93140,9 +93140,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 2,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.690Z",
-      "updatedAt": "2026-08-28T17:30:43.360Z",
+      "updatedAt": "2026-08-28T18:18:53.110Z",
       "lastActivityAt": "2026-08-28T17:24:10.688Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93198,9 +93198,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.672Z",
-      "updatedAt": "2026-08-28T17:24:10.681Z",
+      "updatedAt": "2026-08-28T18:15:43.190Z",
       "lastActivityAt": "2026-08-28T17:24:10.671Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93281,9 +93281,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.660Z",
-      "updatedAt": "2026-08-28T17:24:10.667Z",
+      "updatedAt": "2026-08-28T18:20:21.423Z",
       "lastActivityAt": "2026-08-28T17:24:10.659Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93364,9 +93364,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 4,
+      "views": 7,
       "createdAt": "2026-08-28T17:24:10.649Z",
-      "updatedAt": "2026-08-28T17:33:07.228Z",
+      "updatedAt": "2026-08-28T18:18:52.675Z",
       "lastActivityAt": "2026-08-28T17:24:10.648Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93447,9 +93447,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.628Z",
-      "updatedAt": "2026-08-28T17:30:41.937Z",
+      "updatedAt": "2026-08-28T18:15:41.461Z",
       "lastActivityAt": "2026-08-28T17:24:10.627Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93505,9 +93505,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 7,
       "createdAt": "2026-08-28T17:24:10.598Z",
-      "updatedAt": "2026-08-28T17:30:42.361Z",
+      "updatedAt": "2026-08-28T18:20:34.294Z",
       "lastActivityAt": "2026-08-28T17:24:10.597Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93563,9 +93563,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.579Z",
-      "updatedAt": "2026-08-28T17:24:10.579Z",
+      "updatedAt": "2026-08-28T18:20:24.158Z",
       "lastActivityAt": "2026-08-28T17:24:10.577Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93621,9 +93621,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.546Z",
-      "updatedAt": "2026-08-28T17:24:10.567Z",
+      "updatedAt": "2026-08-28T18:15:40.184Z",
       "lastActivityAt": "2026-08-28T17:24:10.544Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93679,9 +93679,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.528Z",
-      "updatedAt": "2026-08-28T17:24:10.528Z",
+      "updatedAt": "2026-08-28T18:18:12.227Z",
       "lastActivityAt": "2026-08-28T17:24:10.527Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93737,9 +93737,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.508Z",
-      "updatedAt": "2026-08-28T17:24:10.520Z",
+      "updatedAt": "2026-08-28T18:15:41.130Z",
       "lastActivityAt": "2026-08-28T17:24:10.507Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93795,9 +93795,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.489Z",
-      "updatedAt": "2026-08-28T17:24:10.502Z",
+      "updatedAt": "2026-08-28T18:15:42.841Z",
       "lastActivityAt": "2026-08-28T17:24:10.488Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93853,9 +93853,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.467Z",
-      "updatedAt": "2026-08-28T17:24:10.479Z",
+      "updatedAt": "2026-08-28T18:15:41.197Z",
       "lastActivityAt": "2026-08-28T17:24:10.466Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93911,9 +93911,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 3,
       "createdAt": "2026-08-28T17:24:10.433Z",
-      "updatedAt": "2026-08-28T17:24:10.454Z",
+      "updatedAt": "2026-08-28T18:20:24.391Z",
       "lastActivityAt": "2026-08-28T17:24:10.432Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -93969,9 +93969,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.408Z",
-      "updatedAt": "2026-08-28T17:24:10.408Z",
+      "updatedAt": "2026-08-28T18:15:42.726Z",
       "lastActivityAt": "2026-08-28T17:24:10.407Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94027,9 +94027,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.385Z",
-      "updatedAt": "2026-08-28T17:33:37.554Z",
+      "updatedAt": "2026-08-28T18:22:55.646Z",
       "lastActivityAt": "2026-08-28T17:24:10.384Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94085,9 +94085,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.359Z",
-      "updatedAt": "2026-08-28T17:24:10.359Z",
+      "updatedAt": "2026-08-28T18:15:41.465Z",
       "lastActivityAt": "2026-08-28T17:24:10.358Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94143,9 +94143,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 1,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.337Z",
-      "updatedAt": "2026-08-28T17:34:03.164Z",
+      "updatedAt": "2026-08-28T18:21:28.069Z",
       "lastActivityAt": "2026-08-28T17:24:10.336Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94201,9 +94201,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.299Z",
-      "updatedAt": "2026-08-28T17:24:10.322Z",
+      "updatedAt": "2026-08-28T18:17:47.507Z",
       "lastActivityAt": "2026-08-28T17:24:10.298Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94259,9 +94259,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.274Z",
-      "updatedAt": "2026-08-28T17:24:10.274Z",
+      "updatedAt": "2026-08-28T18:24:48.840Z",
       "lastActivityAt": "2026-08-28T17:24:10.272Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94317,9 +94317,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 5,
       "createdAt": "2026-08-28T17:24:10.244Z",
-      "updatedAt": "2026-08-28T17:24:10.261Z",
+      "updatedAt": "2026-08-28T18:25:21.501Z",
       "lastActivityAt": "2026-08-28T17:24:10.243Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94375,9 +94375,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 4,
+      "views": 10,
       "createdAt": "2026-08-28T17:24:10.218Z",
-      "updatedAt": "2026-08-28T17:38:41.274Z",
+      "updatedAt": "2026-08-28T18:23:39.103Z",
       "lastActivityAt": "2026-08-28T17:24:10.216Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94433,9 +94433,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 6,
       "createdAt": "2026-08-28T17:24:10.179Z",
-      "updatedAt": "2026-08-28T17:24:10.187Z",
+      "updatedAt": "2026-08-28T18:30:06.962Z",
       "lastActivityAt": "2026-08-28T17:24:10.177Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94516,9 +94516,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 4,
       "createdAt": "2026-08-28T17:24:10.160Z",
-      "updatedAt": "2026-08-28T17:24:10.172Z",
+      "updatedAt": "2026-08-28T18:15:41.218Z",
       "lastActivityAt": "2026-08-28T17:24:10.159Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
@@ -94599,9 +94599,9 @@
         }
       ],
       "replyCount": 3,
-      "views": 0,
+      "views": 2,
       "createdAt": "2026-08-28T17:24:10.143Z",
-      "updatedAt": "2026-08-28T17:24:10.143Z",
+      "updatedAt": "2026-08-28T18:15:42.666Z",
       "lastActivityAt": "2026-08-28T17:24:10.141Z",
       "publisher": {
         "name": "addons-stremio.com Editorial Team",
